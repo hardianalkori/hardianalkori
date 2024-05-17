@@ -48,24 +48,24 @@
 <br>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardianalkori&show_icons=true&theme=dark&locale=en&layout=compact" alt="hardianalkori" />
 </p>
 
 <br><br><br><br><br><br><br>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hardianalkori&show_icons=true&theme=dark&locale=en" alt="hardianalkori" />
 </p>
 <br><br><br><br><br><br><br><br><br><br>
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hardianalkori&theme=dark" alt="hardianalkori" />
 </p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank">
+  <a href="https://linkedin.com/in/anirudh-rai-072732220](https://www.linkedin.com/in/hardian-alkori-029017249" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" />
   </a>
   <a href="https://instagram.com/hardian_alkori" target="blank">
@@ -75,6 +75,6 @@
 
 <br>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" />
+  <img src="https://komarev.com/ghpvc/?username=hardianalkori&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" />
 </p>
 ```
