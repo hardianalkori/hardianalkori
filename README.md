@@ -1,5 +1,3 @@
-Here is the code with improved indentation:
-
 ```html
 <h1 align="center">Hi 👋, I'm Hardian Alkori</h1>
 
