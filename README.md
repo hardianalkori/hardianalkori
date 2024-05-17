@@ -8,5 +8,5 @@
   <img src="https://media.tenor.com/zGIMaKCYD-EAAAAi/happy.gif" width="200"/>
 </p>
 
-![hardianalkori's Stats](https://github-readme-stats.vercel.app/api?username=hardianalkori&theme=omni&show_icons=true&hide_border=true&count_private=true)
-![hardianalkori's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardianalkori&theme=omni&hide_border=true)
+![hardianalkori's Stats](https://github-readme-stats.vercel.app/api?username=hardianalkori&theme=omni&show_icons=true&hide_border=true&count_private=true) ![hardianalkori's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardianalkori&theme=omni&hide_border=true)
+
