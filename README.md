@@ -68,7 +68,7 @@
   <a href="https://linkedin.com/in/anirudh-rai-072732220](https://www.linkedin.com/in/hardian-alkori-029017249" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/hardian_alkori" target="blank">
+  <a href="https://instagram.com/hardian.alkori" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" />
   </a>
 </p>
