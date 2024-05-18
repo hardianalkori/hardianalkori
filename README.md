@@ -55,8 +55,8 @@
 </p>
 </br>
 <h3 align="Center">Stats</h3>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hardianalkori&theme=omni&show_icons=true&hide_border=true&count_private=true" width=300 height=250/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardianalkori&theme=omni&hide_border=true" width=300 height=250/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iyxn&theme=omni&show_icons=true&hide_border=true&count_private=true" width=300 height=250/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyxn&theme=omni&hide_border=true" width=300 height=250/>
 </br>
 <h3 align="Center">That's all, so what can i do for you?</h3>
 
